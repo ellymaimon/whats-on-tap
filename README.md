@@ -75,7 +75,7 @@ UPDATE `AspNetUserRoles` SET `RoleId` = '1' WHERE `AspNetUserRoles`.`UserId` = '
 
 ## Links
 
-* [Github Repo] (https://github.com/atrotter0/whats-on-tap)
+* [Github Repo] (https://github.com/ellymaimon/whats-on-tap)
 
 ## License
 
